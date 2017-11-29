@@ -1,0 +1,16 @@
+{
+  "cordova": {
+    "id": "ru.appsm.customkeyboard",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "description": "Cordova Custom Keyboard Plugin For Ios",
+  "license": "Apache 2.0",
+  "name": "ru.appsm.customkeyboard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnill/cordova-custom-keyboard.git"
+  },
+  "version": "0.1.2"
+}
