@@ -10,7 +10,7 @@
   "name": "ru.appsm.customkeyboard",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnill/cordova-custom-keyboard.git"
+    "url": "git+https://github.com/aungcvt/cordova-custom-keyboard.git"
   },
   "version": "0.1.2"
 }
